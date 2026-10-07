@@ -1,0 +1,83 @@
+{
+  "project": "Нова · Звёздный прорыв",
+  "projectId": "nova-star-breaker",
+  "version": "1.0.0",
+  "engineSDK": 1,
+  "base": "./",
+  "scenes": [
+    {
+      "id": "first-spark",
+      "name": "Первая искра",
+      "path": "scenes/first-spark.scene.json"
+    },
+    {
+      "id": "constellation",
+      "name": "Созвездие",
+      "path": "scenes/constellation.scene.json"
+    },
+    {
+      "id": "tides",
+      "name": "Приливы",
+      "path": "scenes/tides.scene.json"
+    },
+    {
+      "id": "chain",
+      "name": "Цепная реакция",
+      "path": "scenes/chain.scene.json"
+    },
+    {
+      "id": "pulsar-heart",
+      "name": "Сердце пульсара",
+      "path": "scenes/pulsar-heart.scene.json"
+    },
+    {
+      "id": "bastion",
+      "name": "Бастион",
+      "path": "scenes/bastion.scene.json"
+    },
+    {
+      "id": "orbits",
+      "name": "Орбиты",
+      "path": "scenes/orbits.scene.json"
+    },
+    {
+      "id": "invader",
+      "name": "Захватчик",
+      "path": "scenes/invader.scene.json"
+    },
+    {
+      "id": "labyrinth",
+      "name": "Лабиринт",
+      "path": "scenes/labyrinth.scene.json"
+    },
+    {
+      "id": "crystal-forest",
+      "name": "Кристальный лес",
+      "path": "scenes/crystal-forest.scene.json"
+    },
+    {
+      "id": "storm",
+      "name": "Буря",
+      "path": "scenes/storm.scene.json"
+    },
+    {
+      "id": "core",
+      "name": "Ядро",
+      "path": "scenes/core.scene.json"
+    }
+  ],
+  "modules": [
+    {
+      "id": "nova",
+      "version": 1
+    }
+  ],
+  "assets": [],
+  "files": [
+    "assets/index-BA1ffqof.js",
+    "assets/style-Bne9mc_S.css",
+    "index.html"
+  ],
+  "builtAt": "2026-10-07T00:23:21.549Z",
+  "requirements": "WebGL2, ES2022, static HTTP server"
+}
